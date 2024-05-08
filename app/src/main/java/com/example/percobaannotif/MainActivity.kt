@@ -10,6 +10,6 @@ class MainActivity : AppCompatActivity() {
     }
     //hello
     //kokokok
-    //llololololo
-    //awokawokawok
+    //kokokoklolol
+    //opopopopo
 }
